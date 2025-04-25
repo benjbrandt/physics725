@@ -3,3 +3,4 @@ with some changes
 and some more changes
 and even more changes
 MORE CHANGES
+trying to use vs codium for git
